@@ -1,3 +1,5 @@
+OpenSSL cheatsheet. Based on https://httpd.apache.org/docs/2.0/ssl/ssl_faq.html.
+
 ## Create self-signed certificate
 ```sh
 openssl req -x509 -newkey rsa:4096 -sha256 -days 3650 -nodes \
