@@ -1,4 +1,4 @@
-OpenSSL cheatsheet. Based on https://httpd.apache.org/docs/2.0/ssl/ssl_faq.html.
+OpenSSL cheatsheet based on https://httpd.apache.org/docs/2.0/ssl/ssl_faq.html.
 
 ## Create self-signed certificate
 ```sh
